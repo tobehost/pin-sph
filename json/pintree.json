@@ -2,12 +2,12 @@
   {
     "type": "folder",
     "addDate": 1709118173455,
-    "title": "书签栏",
+    "title": "分类",
     "children": [
       {
         "type": "folder",
         "addDate": 1723551209227,
-        "title": "AnthropicAI",
+        "title": "国际时事政治",
         "children": [
           {
             "type": "link",
@@ -35,7 +35,7 @@
       {
         "type": "folder",
         "addDate": 1723551522153,
-        "title": "Deploy",
+        "title": "自然科学",
         "children": [
           {
             "type": "link",
@@ -84,7 +84,7 @@
       {
         "type": "folder",
         "addDate": 1723550887853,
-        "title": "OpenAI",
+        "title": "非遗传承",
         "children": [
           {
             "type": "link",
@@ -140,7 +140,7 @@
       {
         "type": "folder",
         "addDate": 1709138814156,
-        "title": "Prompt",
+        "title": "AI 专题",
         "children": [
           {
             "type": "link",
@@ -154,7 +154,7 @@
       {
         "type": "folder",
         "addDate": 1723578813098,
-        "title": "AI升级支付",
+        "title": "好吃不贵",
         "children": [
           {
             "type": "folder",
@@ -308,7 +308,7 @@
       {
         "type": "folder",
         "addDate": 1709138814160,
-        "title": "AI绘画工具",
+        "title": "服装鞋帽",
         "children": [
           {
             "type": "folder",
@@ -377,7 +377,7 @@
       {
         "type": "folder",
         "addDate": 1709138814146,
-        "title": "图片处理",
+        "title": "人文地理",
         "children": [
           {
             "type": "link",
@@ -440,7 +440,7 @@
       {
         "type": "folder",
         "addDate": 1709138814182,
-        "title": "图片素材",
+        "title": "琴棋书画",
         "children": [
           {
             "type": "link",
@@ -580,7 +580,7 @@
       {
         "type": "folder",
         "addDate": 1723550775728,
-        "title": "剪辑配音",
+        "title": "音乐",
         "children": [
           {
             "type": "link",
