@@ -298,7 +298,7 @@
         .then(data => {
           const secondLayer = data[0].children;
           renderNavigation(secondLayer, document.getElementById('navigation'));
-          renderBookmarks(secondLayer, [{ title: 'Bookmark', children: secondLayer }]);
+          renderBookmarks(secondLayer, [{ title: 'Channels', children: secondLayer }]);
           document.getElementById('searchInput').value = '';
           document.getElementById('clearSearchButton').classList.add('hidden');
         })
@@ -410,7 +410,7 @@
             clearInterval(interval);
             progressText.textContent = '跳转中...';
             setTimeout(function() {
-                window.location.href = 'https://zeabur.com/templates/OLLSQN'; // 替换为目标网址
+                window.location.href = 'https://zeabur.com?referralCode=tobehost'; // 替换为目标网址
             }, 500); // 可根据需要调整延迟
         }
     }, 300); // 每300毫秒更新一次进度，可调整速度
