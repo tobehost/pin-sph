@@ -1257,5 +1257,26 @@
         "url": "https://microsoftedge.microsoft.com/addons/detail/pintree-bookmarks-exporte/binmofchlenaimbnocogbpebiodjlgkm"
       }
     ]
+  },
+  {
+    "type": "folder",
+    "addDate": 1709118173455,
+    "title": "技术栈",
+    "children": [
+          {
+            "type": "link",
+            "addDate": 1723551286176,
+            "title": "Zeabur",
+            "icon": "https://dash.zeabur.com/logo.svg",
+            "url": "https://zeabur.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723551350481,
+            "title": "Hashnode",
+            "icon": "https://cdn.hashnode.com/res/hashnode/image/upload/v1611242173172/AOX1gE2jc.png",
+            "url": "https://www.hashnode.com/@mifon"
+          }
+        ]
   }
 ]
